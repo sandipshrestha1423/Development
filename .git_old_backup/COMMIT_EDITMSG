@@ -1,0 +1,5 @@
+chore: add baseline-browser-mapping library and update package files
+
+- Added baseline-browser-mapping package (v2.10.7) with necessary configurations in package.json.
+- Created package-lock.json to lock dependencies.
+- Updated root package.json to include baseline-browser-mapping as a devDependency.
